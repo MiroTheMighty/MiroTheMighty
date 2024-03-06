@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirothemighty&label=Profile%20views&color=0e75b6&style=flat" alt="mirothemighty" /> </p>
 
-- 🌱 I’m currently learning **C,C++,Data structures, Sorting algortihms**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL**
 
 - 📫 How to reach me **miro.simic99@gmail.com**
 
